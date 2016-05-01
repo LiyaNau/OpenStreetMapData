@@ -1,0 +1,6 @@
+﻿Project area - Saint Petersburg, Russia
+https://s3.amazonaws.com/metro-extracts.mapzen.com/saint-petersburg_russia.osm.bz2
+
+My home city don't have enough data for this project requirements so I decided to choose Saint Petersburg, city I've visited several times and admire very much. 
+But the size of its file was too big and sctipts execution took a lot of time so I had to make original file 10 times smaller using script provided in instructor notes.
+ 
